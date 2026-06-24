@@ -1,3 +1,9 @@
+---
+hide:   
+  - navigation
+  - toc
+---
+
 # Naturnäran
 
 Här finns ljud till Naturnäran - Vässarös naturspår.
